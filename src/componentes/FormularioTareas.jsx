@@ -20,7 +20,7 @@ function FormularioTareas() {
   return (
     <div className="max-w-md mx-auto">
       <form onSubmit={handleSubmit} className="bg-blue-300 p-10 mb-4">
-        <h1 className="text-2xl font-bold text-black mb-3">Crea tu tarea</h1>
+        <h1 className="text-2xl font-bold text-black mb-3">Crea tu tarea :)</h1>
         <input
           className="bg-blue-200 p-3 w-full mb-2"
           placeholder="Escribe una tarea"
